@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="quan" >
+        <item>Hải Châu</item>
+        <item>Liên Chiểu</item>
+        <item>Cẩm lệ</item>
+        <item>Sơn trà</item>
+    </string-array>
+</resources>
